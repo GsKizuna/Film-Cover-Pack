@@ -1,0 +1,4 @@
+01:46:47:687 [WARN]	Request Failed. ErrorCode: 29 errorMessage: Timeout, Send Request Failed t=69687
+01:46:47:687 [WARN]	Request Failed. ErrorCode: 29 errorMessage: Timeout, Send Request Failed t=64831
+01:46:47:687 [WARN]	Request Failed. ErrorCode: 29 errorMessage: Timeout, Send Request Failed t=69687
+01:46:59:037 [WARN]	Request Failed. ErrorCode: 112007 errorMessage: Platform Status, Send Request Failed. WinHTTP Name Not Resolved. last error code = 12007 
